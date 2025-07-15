@@ -1,0 +1,53 @@
+{
+  "stats": "12 passed, 0 failed out of 12",
+  "tests": [
+    {
+      "name": "react-toastify ve react-hook-form paketleri kurulmuş mu?",
+      "state": "pass"
+    },
+    {
+      "name": "Task başlığı alanına 2 karakter girilince hata mesajı doğru metinle çıkıyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "Task başlığı alanına yazılanlar silinince hata mesajı doğru metinle çıkıyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "Task açıklama alanına 2 karakter girilince hata mesajı doğru metinle çıkıyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "Task açıklama alanına yazılanlar silinince hata mesajı doğru metinle çıkıyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "Taskı 4 kişiye atayınca hata mesajı doğru metinle çıkıyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "Taskı 1 kişiye atayıp, o kişi çıkarılınca hata mesajı doğru metin ile çıkıyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "Bir taskta tamamlandı butonuna tıklayınca görev tamamlandı oluyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "App.jsx'e toastify import edilmiş mi?",
+      "state": "pass"
+    },
+    {
+      "name": "Yeni kişi eklendiğinde \"Yeni kişi oluşturuldu.\" toast mesajı gösteriliyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "3.2 Yeni görev eklendiğinde \"Yeni görev oluşturuldu.\" toast mesajı gösteriliyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "3.3 Tamamlandı butonuna tıklayınca \"... id'li görev tamamlandı.\" toast mesajı gösteriliyor mu?",
+      "state": "pass"
+    }
+  ]
+}
